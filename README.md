@@ -1,5 +1,10 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/PhinanceScientist"><img src = "assets/IntroVideo.gif" width = 100%> </a>
+</p>
+<h1 align=center><font size = 5>Merida Neighbourhoods Clustered by Economic Vulnerability due to the COVID-19 Outbreak</font></h1>
+<br>
 
+### Hi there 👋
 <!--
 **PhinanceScientist/PhinanceScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
