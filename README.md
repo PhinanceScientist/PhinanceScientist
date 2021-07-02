@@ -9,6 +9,7 @@
   &nbsp;
   <a href="https://platzi.com/profesores/novelonovelo/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://public.tableau.com/profile/luis.novelo6593#!/"><img src="https://img.shields.io/badge/Tableau%20Public-orange.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA"><img src="https://img.shields.io/badge/Youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -28,7 +29,7 @@ Currently working as an Academic Coach and Professor in <a href="https://platzi.
  <li> <a href="https://platzi.com/cursos/visualizacion-datos/">Data visualization principles </a></li>
  <li><a href="https://platzi.com/cursos/tableau/"> Storytelling with Tableau</a></li>
  <li> <a href="https://platzi.com/cursos/business-intelligence/">Business Intelligence</a></li><br>
- <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA"><img src = "assets/geekgodin.gif" width = 100%> </a>
+ <a href="https://platzi.com/cursos/visualizacion-datos/"><img src = "assets/platziImg.png" width = 100%> </a>
 </p>
 
 
@@ -42,7 +43,7 @@ Some of my projects:<br>
 <li> <a href="https://github.com/PhinanceScientist/k-means_economic-vulnerability">Merida's Neighborhoods clustered by economic vulnerability due to COVID 19 outbreak</a></li>
 <li> <a href="https://public.tableau.com/app/profile/luis.novelo6593/viz/CapStone_15970406892880/MexicoViolence">Violence in México</a></li>
 <li> <a href="https://github.com/PhinanceScientist/AMLO_Wordcloud">Mexico's President speech wordcloud</a></li><br>
-<a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA"><img src = "assets/geekgodin.gif" width = 100%> </a>
+<a href="https://public.tableau.com/app/profile/luis.novelo6593/viz/FinancialAnalysisSuperStore/Dashboard1"><img src = "assets/tableauDashboard.png" width = 100%> </a>
 </p>
 
 ***
@@ -55,8 +56,20 @@ In my spare time I like making content for my Youtube channel <a href="https://w
 
 ***
 
+## GitHub Stats
+<br>
 
+<div align="center">
+<a href="https://github.com/phinancescientist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhinanceScientist&theme=dracula&count_private=true&hide=css,blade" alt="PhinanceScientist's GitHub Stats" />
 
+<br>
+<br>
+<br>
+<a href="https://github.com/phinancescientist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhinanceScientist&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="PhinanceScientist's GitHub Stats"/>
+</a>
+</div>
 <!--
 **PhinanceScientist/PhinanceScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
