@@ -20,7 +20,7 @@ I am a person who likes to work as a leader on a team, always looking for new so
 <br>
 <br>
 <b>Want to talk about technologies, finances or Data Science? </b> Don't hesitate in reaching me via <br> mail:
- <a href="mailto:novelo.novelo1992@gmail.com">novelo.novelo1992@gmail.com </a>or <a>Linkedin </a>
+ <a href="mailto:novelo.novelo1992@gmail.com">novelo.novelo1992@gmail.com </a>or <a href="https://www.linkedin.com/in/novelo-luis/">Linkedin </a>
  <br>
 <br>
 
