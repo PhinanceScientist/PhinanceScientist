@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/PhinanceScientist"><img src = "https://i.ibb.co/NLfc0SV/Deveaner.png" width = 100> </a>
 </p>
-<h1 align=center><font size = 5>Hi there 👋! I'm Luis Novelo<br> welcome to my profile. Thanks for passing by😃</font></h1>
+<h1 align=center><font size = 5>Hi there 👋! I'm Luis Novelo<br> Welcome to my profile, thanks for passing by😃</font></h1>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
