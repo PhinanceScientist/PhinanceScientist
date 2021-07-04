@@ -38,7 +38,7 @@ Currently working as an Academic Coach and Professor in <a href="https://platzi.
 ***
 
 ## Projects 🚀
-I really like doing personal projects related to data analysis and interpretation. I preffer using Tableau Public as my main data visualization tool but I also have work with Jupyter Notebooks using Python<br><br>
+I really like doing personal projects related to data analysis and interpretation. I preffer using Tableau Public as my main data visualization tool but I also have worked with Python using Jupyter Notebooks<br><br>
 Some of my projects:<br>
 <li> <a href="https://github.com/PhinanceScientist/k-means_economic-vulnerability">Merida's Neighborhoods clustered by economic vulnerability due to COVID 19 outbreak</a></li>
 <li> <a href="https://public.tableau.com/app/profile/luis.novelo6593/viz/CapStone_15970406892880/MexicoViolence">Violence in México</a></li>
