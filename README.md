@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/PhinanceScientist"><img src = "https://i.ibb.co/NLfc0SV/Deveaner.png" width = 100> </a>
+<a href="https://github.com/PhinanceScientist"><img src = "./assets/ln-logo.png" width = 100> </a>
 </p>
 <h1 align=center><font size = 5>Hi there 👋! I'm Luis Novelo<br> Welcome to my profile, thanks for passing by😃</font></h1>
 <br>
@@ -70,6 +70,7 @@ In my spare time I like making content for my Youtube channel <a href="https://w
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhinanceScientist&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="PhinanceScientist's GitHub Stats"/>
 </a>
 </div>
+
 <!--
 **PhinanceScientist/PhinanceScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
