@@ -61,13 +61,13 @@ In my spare time I like making content for my Youtube channel <a href="https://w
 
 <div align="center">
 <a href="https://github.com/phinancescientist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhinanceScientist&theme=dracula&count_private=true&hide=css,blade" alt="PhinanceScientist's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhinanceScientist&theme=jolly&count_private=true&hide=css,blade" alt="PhinanceScientist's GitHub Stats" />
 
 <br>
 <br>
 <br>
 <a href="https://github.com/phinancescientist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhinanceScientist&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="PhinanceScientist's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhinanceScientist&count_private=true&show_icons=true&line_height=27&theme=jolly " alt="PhinanceScientist's GitHub Stats"/>
 </a>
 </div>
 
