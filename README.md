@@ -51,6 +51,9 @@ Some of my projects:<br>
 ##  GEEK GODIN 📺
 
 In my spare time I like making content for my Youtube channel <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA">GEEK GODIN</a> where I analyze real life cases for Business Intelligence and also teach tech concepts to non tech people. As a businessman who happens to have learned Python, I really like sharing the benefits of knowing basic concepts related to programming and data science. 
+## Latest videos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA"><img src = "assets/geekgodin.gif" width = 100%> </a>
 </p>
 
