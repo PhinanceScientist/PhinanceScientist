@@ -53,6 +53,7 @@ Some of my projects:<br>
 In my spare time I like making content for my Youtube channel <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA">GEEK GODIN</a> where I analyze real life cases for Business Intelligence and also teach tech concepts to non tech people. As a businessman who happens to have learned Python, I really like sharing the benefits of knowing basic concepts related to programming and data science. 
 ## Latest videos
 <!-- BLOG-POST-LIST:START -->
+- [GEEK GODIN](https://www.youtube.com/watch?v=qnAWCb2SXTw)
 - [Business Intelligence con Tableau: Caso del metro de CDMX](https://www.youtube.com/watch?v=eTEvfF5TBxE)
 - [Business Intelligence - Inteligencia de Negocios: Todo lo que debes saber](https://www.youtube.com/watch?v=qBTM9B2Nb0E)
 <!-- BLOG-POST-LIST:END -->
